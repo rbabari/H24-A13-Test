@@ -7,3 +7,10 @@ H24-A13-Test
 - branche
 - pull request
 - merge
+
+# Étapes depuis le bureau 
+- clone 
+- commit / branche
+- pull reuquest
+- push / pull  vers et depuis le serveur git 
+
