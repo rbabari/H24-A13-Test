@@ -1,0 +1,8 @@
+Index: src/TestGitHub.js
+===================================================================
+diff --git a/src/TestGitHub.js b/src/TestGitHub.js
+--- a/src/TestGitHub.js	
++++ b/src/TestGitHub.js	
+@@ -1,0 +1,1 @@
++System.out.print("Bonjour !");
+\ No newline at end of file
